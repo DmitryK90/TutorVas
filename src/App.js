@@ -8,7 +8,7 @@ function App() {
         <div className="card">
           <div className="card-image">
             <img src="./sea.jpg" alt="surfing" />
-            <Likes likes='311' />
+            <Likes />
           </div>
         </div>
       </div>
