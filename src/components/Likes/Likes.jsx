@@ -29,4 +29,4 @@ function mapDispatchToProps(dispatch) { // принимает метов dispatc
     }
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(Likes); // в connect оборачиваем наш компонент Likes и на выходе получаем новый компонент с props из mapStateToProps.
+export default connect(mapStateToProps, mapDispatchToProps)(Likes); // в connect оборачиваем наш компонент Likes и на выходе получаем новый компонент с props из mapStateToProps.1
